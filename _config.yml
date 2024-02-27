@@ -1,8 +1,8 @@
 # Base configs
 baseurl: "https://kacperrajchel.com"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
-image_fulls_loc: "/images/fulls"
-image_thumbs_loc: "/images/thumbs"
+image_fulls_loc: "./images/fulls"
+image_thumbs_loc: "./images/thumbs"
 google_analytics: ""
 
 # UI configs
@@ -15,7 +15,7 @@ header:
 footer:
  name: "Greetings"
  bio: "ML engineer with a background in the arts."
- github: "Just <a href=\"https://github.com/Crytoma/photography_site\">fork me on github</a>"
+ github: "Just <a href=\"https://github.com/Crytoma/photography\">fork me on github</a>"
 web_design: "KR"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
