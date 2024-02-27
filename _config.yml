@@ -1,8 +1,8 @@
 # Base configs
-baseurl: "https://kacperrajchel.com"
+baseurl: "https://kacperrajchel.com/"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
-image_fulls_loc: "./images/fulls"
-image_thumbs_loc: "./images/thumbs"
+image_fulls_loc: "images/fulls"
+image_thumbs_loc: "images/thumbs"
 google_analytics: ""
 
 # UI configs
@@ -22,7 +22,7 @@ web_design: "KR"
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
 social_urls:
   #twitter: "https://www.twitter.com/"
-  instagram: "https://www.instagram.com/kakushidori"
+  instagram: "https://www.instagram.com/kakushidori/"
   #dribbble: "https://dribbble.com/"
   #linkedin: "https://in.linkedin.com/in/"
-  github: "https://www.github.com/Crytoma"
+  github: "https://www.github.com/Crytoma/"
